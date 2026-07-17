@@ -1,0 +1,28 @@
+{
+  "id": "test",
+  "username": "Saurav",
+  "title": "test",
+  "summary": "test-project",
+  "type": "Agentic Assisted",
+  "priority": 9,
+  "domain_id": "it",
+  "paths": [],
+  "skills": [],
+  "tags": [],
+  "external_docs": [],
+  "your_rank": "C",
+  "your_rank_note": "...",
+  "github_repo": null,
+  "status": "published",
+  "agent_visible": true,
+  "visibility": "on",
+  "project_type": [
+    "idea"
+  ],
+  "routes": [
+    "graveyard"
+  ],
+  "aeo_tags": [],
+  "created_at": "2026-07-17T02:49:58.509+00:00",
+  "published_at": null
+}
