@@ -25,12 +25,5 @@
   "aeo_tags": [],
   "created_at": "2026-07-17T02:49:58.509+00:00",
   "published_at": "2026-07-17T14:10:40.883+00:00",
-  "multi_repo": true,
-  "repo_type": "primary",
-  "label": null,
-  "primary_repo": null,
-  "secondary_repo": [
-    "test-flag-check"
-  ],
-  "repo_link": "test"
+  "multi_repo": false
 }
