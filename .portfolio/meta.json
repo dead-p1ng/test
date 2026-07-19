@@ -30,8 +30,7 @@
   "label": null,
   "primary_repo": null,
   "secondary_repo": [
-    "test-backend",
-    "test-api"
+    "test-backend"
   ],
   "repo_link": "test"
 }
